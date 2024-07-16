@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Random Qoutes",
+  "version": "1.0",
+  "description": "Shows a random quote on every click",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "random_qoutes",
+  "version": "1.0.0",
+  "description": "Provides random qoutes on every click.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srijan Tripathi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
